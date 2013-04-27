@@ -1,0 +1,11 @@
+STB2 Vasl Map Version 1.0 released Sept 2011. Drawn by Pete Roberts
+
+This is a hand-drawn version of Critical Hit's Scotland The Brave II map, there may be slight differences in LOS and terrain depictions from the original
+
+STB2 is designed to join up with STB1
+
+To join the maps just load STB2, add a row and select STB1.
+
+Thanks to Ray Tapio at Critical Hit for permission to VASLize the map.
+
+Pete Roberts

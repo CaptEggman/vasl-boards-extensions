@@ -1,0 +1,13 @@
+Afrika Korps - El Alamein - VASL Map
+ Version 1.0 released 2/9/10. 
+Drawn by Pete Roberts
+
+This is a hand-drawn version of the Afrika Korps - El Alamein map. Place the AK1.MDX file in your extensions folder. The AK overlays are available on a new Afrika Korps tab on the draggable overlays tab. Some of the overlays will snap to the map grid, but others (due to their irregular shape) will not and will require lining up on the map.
+
+New German unit counters are provided on the Squad and Half squad tabs and two new Italian unit counters are also provided. The British Hurricane FB can be found under the British Air units, the British ACV is under the British SC/AC (AEC AC) vehicle tab and the German Opel AA under the German trucks tab.
+
+
+
+Thanks to Ray Tapio at Critical Hit for permission to VASLize this map.
+
+Pete Roberts

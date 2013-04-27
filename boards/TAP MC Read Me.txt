@@ -1,0 +1,15 @@
+Critical Hit's maps from TAP1 and TAP2 include MC1 to MC7 (MC7 is also known as TPX1).
+
+When a scenario requires joining of Boards MC2 and MC5 use MC2a and MC5a.
+
+The snow boards for MC1, MC2 and MC5 can be used when scenario weather is snow.
+
+These are hand painted Maps representations of Critical hits maps using a mixture of Vasl colour schemes and Critical Hit terrain.
+
+The LOS engine and Terrain transformations will not work on these maps as they are restricted to Geo-morphic boards.
+
+Roll Low.
+
+Pete Roberts
+
+ 

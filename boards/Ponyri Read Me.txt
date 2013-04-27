@@ -1,0 +1,23 @@
+Ponyri Vasl Maps CHDD1 and CHDD2 Version 1.0 released Sept 2011. Drawn by Pete Roberts
+
+These are hand-drawn versions of Critical Hit's Devils Domain Ponyri maps, there may be slight differences in LOS and terrain depictions from the originals
+
+Thanks to Ray Tapio at Critical Hit for permission to VASLize the maps.
+
+The extension adds the additional counters and charts from Critical Hit's Ponyri Devils Domain
+ 
+A Ponyri tab has been added to the QRDC with the following:
+
+MOCD tab containing Mobile Obstacle Construction Detachment table
+Mines tab containing Minefield Cluster, Random Minefield Cluster and Tank Ramming tables.
+CSP tab containing Company Strong Point OB and Leader tables.
+
+Ponyri has been added to the drop down list for fortifications and contains Revetment, Emplacement and Blockhouse counters.
+
+1-2-7 and 2-2-8 MG crews have been added to the Russian Squad and HS tabs and an Ilyushin IL-2 Dive bomber has been added to the Russian air tab.
+
+A Ponyri tab has been added to the German vehicles containing a B IV DC AFV and a Sturm Panzer IVE. A FL156 Storm and 37L Stuka DB have been added to the German Air tab.
+
+A Ram counter has been added to the Veh-Vehicle tab.
+
+Pete Roberts
