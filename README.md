@@ -53,3 +53,6 @@ http://www.desperationmorale.com/
 
 A small tutorial on ASL:
 http://advancedsquadleader.net/index.php?title=Beginners_Guide
+
+A tip/trick/tutorial on using VASL to play ASL:
+http://wargamecenter.wordpress.com/2010/05/10/vasl/#comment-4853
