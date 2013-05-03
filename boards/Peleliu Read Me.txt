@@ -1,0 +1,21 @@
+Peleliu Vasl Map Version 1.0 released June 2011. Drawn by Pete Roberts
+
+This is a hand-drawn version of Critical Hit's Peleliu map, there may be slight differences in LOS and terrain depictions from the original
+
+Thanks to Ray Tapio at Critical Hit for permission to VASLize the map.
+
+The Peleliu map has an added Terrain SSR control for turning low tide on and off.
+
+The extension adds the following counters from Critical Hit's Peleliu to the Counter Tray:
+
+FDE counter to the fortifications tab.
+
+T20 Mtr to the US SW tab.
+
+LVT4Fl to the US vehicles in the LVT4 tab.
+
+Walking Wounded, SeaBees, Runners, Cols Puller and Davis, DC Heroes and an HQ counter in New Peleliu tabs added to the US Squad, HS and SMC tabs. 
+
+Water Shortage markers in a Peleliu tab under the "Other" tab.
+
+Pete Roberts June 2011

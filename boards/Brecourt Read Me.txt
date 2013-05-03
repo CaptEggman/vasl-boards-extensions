@@ -1,0 +1,9 @@
+Hurtgen Surprise - Brecourt Manor Vasl Map Version 1.0 released June 2011. Drawn by Pete Roberts
+
+This is a hand-drawn version of Critical Hit's Hurtgen Surprise - Brecourt Manor map, there may be slight differences in LOS and terrain depictions from the original
+
+Thanks to Ray Tapio at Critical Hit for permission to VASLize this map.
+
+This map supports most of the Terrain Changes within Vasl.
+
+Pete Roberts

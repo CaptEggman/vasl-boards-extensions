@@ -1,0 +1,11 @@
+BOB DZN Vasl Map Version 1.0 released June 2011. Drawn by Pete Roberts
+
+This is a hand-drawn version of Critical Hit's BOB Drop Zone Normandy map, there may be slight differences in LOS and terrain depictions from the original
+
+Thanks to Ray Tapio at Critical Hit for permission to VASLize this map.
+
+This map supports most of the Terrain Changes within Vasl
+
+NB that the Hedges from the original map are shown as Bocage - if for any reason you want them to appear as hedges then use the Terrain SSR Hedges are Bocage, which will actually work in reverse on this map.
+
+Pete Roberts

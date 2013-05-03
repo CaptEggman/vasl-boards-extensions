@@ -1,0 +1,7 @@
+Critical Hit's Board & Iron - In The Item Pocket Version 1.0 drawn by Pete Roberts 2/09/10
+
+Note that this is a hand drawn map and therefore LOS may vary slightly from the original, note also that the terrain art is slightly different from the original.
+
+The BICaves MDX extension has added the Blood and Iron preset cave Complexes to the draggable overlays under a tab called BI Caves. The overlays are transparent and do not snap to teh map grid. After roughly setting them up I would recommend zooming in on the map to fine tune the placement so that they fit with the map grid exactly. Aftre placement HIP the cave complex by Ctrl H or right click menu option.
+
+Thanks to Ray Tapio for permission to release for Vasl use.
