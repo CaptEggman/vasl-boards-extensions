@@ -1,9 +1,0 @@
-Arnhem The Third Bridge Version 1.0 released 22/2/11. Drawn by Pete Roberts 
-
-This is a hand-drawn version of Critical Hit's Arnhem The Third Bridge map, there may be slight differences in LOS and terrain depictions from the original.
-
-The map can be cropped in the normal manner in Vasl.
-
-Thanks to Ray Tapio at Critical Hit for permission to VASLize these maps. 
-
-Pete Roberts

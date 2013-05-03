@@ -1,1 +1,0 @@
-Place downloaded overlay files (ovrW, ovrX) into this folder.  The downloaded files (ovrW.zip, ovrX.zip) must be unzipped first.

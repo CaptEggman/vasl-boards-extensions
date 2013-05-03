@@ -1,7 +1,0 @@
-Darkest December Vasl Maps Version 1.0 February 2013. Drawn by Pete Roberts
-
-These are hand-drawn versions of Critical Hit's Hotton, Melines and Quatre Bras maps, there may be slight differences in LOS and terrain depictions from the originals.
-
-Thanks to Ray Tapio at Critical Hit for permission to VASLize the maps.
-
-Pete Roberts

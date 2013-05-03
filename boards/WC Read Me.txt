@@ -1,9 +1,0 @@
-Witches Cauldron Vasl Maps WC1 and WC2 Version 1.0 released 14/2/11. Drawn by Pete Roberts 
-
-These are a hand-drawn versions of Critical Hit's Witches Cauldron maps WC1 and WC2, there may be slight differences in LOS and terrain depictions from the original.
-
-The maps can be cropped in the normal manner in Vasl.  For the complete map load WC1 with WC2 as an added row.
-
-Thanks to Ray Tapio at Critical Hit for permission to VASLize these maps. 
-
-Pete Roberts

@@ -1,9 +1,0 @@
-Roman Glory Vasl Map Version 2.0 released June 2011. Drawn by Pete Roberts
-
-This is a hand-drawn version of Critical Hit's Roman Glory map, there may be slight differences in LOS and terrain depictions from the original
-
-Thanks to Ray Tapio at Critical Hit for permission to VASLize this map.
-
-Version 2 of this map supports most of the Terrain Changes within Vasl - specifically it will support changes to Snow conditions.
-
-Pete Roberts
